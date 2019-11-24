@@ -1,0 +1,27 @@
+#header{
+    width: 100%;
+    
+}
+
+#tapDown {
+    width: 100%;
+    padding-top: 2%;
+}
+
+.store {
+    background-color : #E7EAE6;
+}
+
+.setButtonGroup {
+    padding-left: 32% ;
+    background-color: #0a6656 ;
+    padding-top: 0.2%;
+    padding-bottom: 0.65%;
+}
+
+#distButton {
+    margin-right: 1.5%;
+    margin-left: 1.5%;
+    
+
+}

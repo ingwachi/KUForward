@@ -1,0 +1,39 @@
+.SellAndBuy{
+    background-color: #E7EAE6;
+    
+  }
+  
+  .logosell{
+      width: 25%;
+      margin-right: 10%;
+      margin-left: 20%;
+      margin-top: 10%;
+      opacity: 0.8;
+  }
+  
+  .logosell:hover {
+      opacity: 1;
+    }
+  .buylogo:hover {
+      opacity: 1;
+    }
+  
+  .buylogo{
+      width: 25%;
+      margin-top: 10%;
+      opacity: 0.8;
+  }
+  
+  .setlb{
+    margin-left: 21%;
+  }
+  
+  #sellb{
+    margin-top: 2%;
+    width: 30%;
+  }
+  
+  #buylb{
+    margin-left: 20.5%;
+    width: 17%;
+  }
